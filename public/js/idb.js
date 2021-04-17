@@ -67,7 +67,7 @@ function uploadBudget() {
           // clear all items in your store
           budgetObjectStore.clear();
 
-          alert('All transactions have been saved!');
+          alert('All transactions have been updated to your app!');
         })
         .catch(err => {
           console.log('Not working');

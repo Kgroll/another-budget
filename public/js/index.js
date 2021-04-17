@@ -150,5 +150,5 @@ document.querySelector("#add-btn").onclick = function() {
 };
 
 document.querySelector("#sub-btn").onclick = function() {
-  sendTransaction(true);//this was set at false if issues later
+  sendTransaction(false);//this was set at false if issues later
 };
