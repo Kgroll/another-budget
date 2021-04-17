@@ -135,6 +135,7 @@ function sendTransaction(isAdding) {
     }
   })
   .catch(err => {
+    console.log('You are offline but your transactions have been saved');
     // fetch failed, so save in indexed db
     saveRecord(transaction);
 
@@ -149,5 +150,5 @@ document.querySelector("#add-btn").onclick = function() {
 };
 
 document.querySelector("#sub-btn").onclick = function() {
-  sendTransaction(false);
+  sendTransaction(true);//this was set at false if issues later
 };
