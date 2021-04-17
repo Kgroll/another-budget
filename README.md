@@ -1,5 +1,5 @@
  
-  # Repository Title:   Not Just Another Budget App     
+  # Repository Title:   Not Just Another Budget App     ![money](https://user-images.githubusercontent.com/75186217/115129798-4dead800-9fb7-11eb-9e97-e5f84c91b6dc.jpg)
     
 
   ## Table of Contents
@@ -34,11 +34,12 @@
 
   ## Screenshots
   
-![Screenshot 2021-04-12 231049](https://user-images.githubusercontent.com/75186217/115129701-64dcfa80-9fb6-11eb-89c3-cb5bb79f55d6.jpg)
 ![budget1](https://user-images.githubusercontent.com/75186217/115129704-67d7eb00-9fb6-11eb-8941-7435a14495a8.jpg)
 ![budget offline](https://user-images.githubusercontent.com/75186217/115129706-6c9c9f00-9fb6-11eb-967b-3fd82013bce6.jpg)
 ![back onling](https://user-images.githubusercontent.com/75186217/115129708-6efef900-9fb6-11eb-9d79-e34f7de640dd.jpg)
 ![online](https://user-images.githubusercontent.com/75186217/115129715-79b98e00-9fb6-11eb-8a2c-d72547a30635.jpg)
+![online](https://user-images.githubusercontent.com/75186217/115129796-4c211480-9fb7-11eb-8917-1a6fc88627e9.jpg)
+
 
 
 
