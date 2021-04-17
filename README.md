@@ -1,5 +1,5 @@
  
-  # Repository Title:   Not Just Another Budget App     ![License: Boost](https://img.shields.io/badge/license-Boost-blue.svg) 
+  # Repository Title:   Not Just Another Budget App     
     
 
   ## Table of Contents
@@ -34,9 +34,7 @@
 
   ## License
 
-  Licensed by:  ![Boost](https://opensource.org/licenses/BSL-1.0)
-  
-  For more information go to:  (https://opensource.org/licenses/BSL-1.0)
+
 
   ## Contributing
 
@@ -48,7 +46,7 @@
 
   ## Credits
 
-  https://github.com/Xandromus
+  Xandromus Xander Rapstine  https://github.com/Xandromus
 
   ## Questions
 
