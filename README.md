@@ -39,16 +39,16 @@
 ![budget1](https://user-images.githubusercontent.com/75186217/115129704-67d7eb00-9fb6-11eb-8941-7435a14495a8.jpg)
 
 Message when app is offline
+
 ![budget offline](https://user-images.githubusercontent.com/75186217/115129706-6c9c9f00-9fb6-11eb-967b-3fd82013bce6.jpg)
 
 Message when app is reconnected to the internet
+
 ![back onling](https://user-images.githubusercontent.com/75186217/115129708-6efef900-9fb6-11eb-9d79-e34f7de640dd.jpg)
 
-Updated graph with data
+Updated graph with data after reconnection
+
 ![online](https://user-images.githubusercontent.com/75186217/115129715-79b98e00-9fb6-11eb-8a2c-d72547a30635.jpg)
-
-
-![online](https://user-images.githubusercontent.com/75186217/115129796-4c211480-9fb7-11eb-8917-1a6fc88627e9.jpg)
 
 
   ## Contributing
